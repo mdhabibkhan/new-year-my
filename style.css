@@ -1,0 +1,7 @@
+/* header section start here */
+
+.header-back{
+    background-image: url('/images/banner/banner1.png');
+    height: 808px;
+    width: 1600;
+}
